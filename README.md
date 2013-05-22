@@ -16,11 +16,11 @@ Rails-Cheat-Sheet
 #### Update to Latest Migration
 	rake db:migrate
 
-#### Delete database
+#### Delete Database
 	rake db:drop
 
-#### Create database
+#### Create Database
 	rake db:create
 
-#### Types of Columns
+#### Column Types
 	:primary_key, :string, :text, :integer, :float, :decimal, :datetime, :timestamp, :time, :date, :binary, :boolean
