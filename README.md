@@ -3,7 +3,7 @@ Rails-Cheat-Sheet
 
 ## Rails Generate Examples
 #### Create a Resource
-  rails generate scaffold Post name:string title:string content:text
+	rails generate scaffold Post name:string title:string content:text
 
 #### Generate Models
 	rails generate model Post title:string body:text published:boolean
