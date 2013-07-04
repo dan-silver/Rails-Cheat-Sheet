@@ -24,3 +24,7 @@ Rails-Cheat-Sheet
 
 #### Column Types
 	:primary_key, :string, :text, :integer, :float, :decimal, :datetime, :timestamp, :time, :date, :binary, :boolean
+
+## Environmental Variables
+#### Upload environmental variables to Heroku with [figaro](https://github.com/laserlemon/figaro)
+	rake figaro:heroku
