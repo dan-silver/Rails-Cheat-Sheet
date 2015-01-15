@@ -1,7 +1,7 @@
 Rails-Cheat-Sheet
 =================
 ## Quickly generate rails app with [composer](https://github.com/RailsApps/rails-composer)
-```rails new appName -m https://raw.github.com/RailsApps/rails-composer/master/composer.rb```
+```rails new app-name -m https://raw.github.com/RailsApps/rails-composer/master/composer.rb```
 
 ## Rails Generate Examples
 #### Create a Resource
