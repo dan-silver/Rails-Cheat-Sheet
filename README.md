@@ -15,6 +15,9 @@ Rails-Cheat-Sheet
 
 
 ## Database
+#### Initial database setup
+	rake db:setup
+
 #### Update to Latest Migration
 	rake db:migrate
 
@@ -30,3 +33,7 @@ Rails-Cheat-Sheet
 ## Environmental Variables
 #### Upload environmental variables to Heroku with [figaro](https://github.com/laserlemon/figaro)
 	rake figaro:heroku
+
+## Cloud Hosting
+####  Launch server with public IP
+rails s --binding=PUBLIC_IP_ADDRESS
