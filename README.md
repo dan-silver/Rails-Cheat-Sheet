@@ -36,4 +36,4 @@ Rails-Cheat-Sheet
 
 ## Cloud Hosting
 ####  Launch server with public IP
-rails s --binding=PUBLIC_IP_ADDRESS
+	rails s --binding=PUBLIC_IP_ADDRESS
